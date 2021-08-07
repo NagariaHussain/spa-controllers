@@ -4,10 +4,11 @@
 
 1. A custom Frappe App
 2. A Vue 3 Application Initialized
+3. `vue-router` 4
 
 ## How to?
 
-The use of these libraries has been covered in an upcoming [frappe.school](https://frappe.school) course.
+The use of these libraries has been covered in an upcoming [frappe.school](https://frappe.school) course by Mohammad Hussain Nagaria.
 
 ## Credits
 
