@@ -1,4 +1,4 @@
-import router from '@/router';
+import router from '../router';
 
 export default async function call(method, args) {
 	if (!args) {
