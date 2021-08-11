@@ -32,6 +32,10 @@ let plugin = {
 					hasKey(vmOptions.methods, key)
 				)
 			) {
+				if (!vmOptions.computed) {
+					vmOptions.computed = {};
+				}
+				
 				vmOptions.computed[key] = vmOptions.resources[key];
 			}
 		});
